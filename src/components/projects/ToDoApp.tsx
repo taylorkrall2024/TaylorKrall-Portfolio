@@ -9,7 +9,8 @@ export function TodoApp(){
             <p class="max-w-2xl mb-6 font-light text-white lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">A React To-Do app efficiently manages your tasks, allowing seamless adding, updating, and completing of items.</p>
         </div>
         <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-            <img src="/projectAssets/td.gif" alt="mockup" />
+        <img src="/projectAssets/gifs/lab8_TaylorKrall.gif" alt="Description of what the GIF shows" />
+
         </div>                
     </div>
 </section>

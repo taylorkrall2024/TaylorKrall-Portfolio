@@ -9,7 +9,12 @@ export function QuizApp(){
             <p class="max-w-2xl mb-6 font-light text-black lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">This React Native quiz app provides a straightforward interface for testing your knowledge. Simple navigation and clear answer choices make for a user-friendly experience.</p>
         </div>
         <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-            <img src="/projectAssets/qa.gif" alt="mockup" />
+        <div class="gif-container">
+        <div>
+    <img src="/projectAssets/gifs/lab9_TaylorKrall.gif" alt="Lab 9 Gif" />
+</div>
+</div>
+
         </div>                
     </div>
 </section>
